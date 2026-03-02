@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.walktest.app-mergeDebugResources-38:/values-or/values-or.xml",
+            "outputFile": "com.example.walktest.app-mergeDebugResources-41:/values-or/values-or.xml",
             "map": [
                 {
                     "source": "/Users/prakhartripathi/.gradle/caches/transforms-3/5c2a853fccbee98bce4b6c0c65a09941/transformed/material3-1.1.1/res/values-or/values-or.xml",

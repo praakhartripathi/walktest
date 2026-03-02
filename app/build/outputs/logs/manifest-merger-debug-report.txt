@@ -4,11 +4,16 @@ ADDED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidMan
 INJECTED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [io.coil-kt:coil-compose:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/c114361ec4eab5360ed75747bc87ed79/transformed/coil-compose-2.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/057c0125b869e1376c1d905883a9d309/transformed/coil-compose-base-2.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/18d82d4ec66d9237c60a812879fe3279/transformed/coil-2.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.1] /Users/prakhartripathi/.gradle/caches/transforms-3/67403f0be3e7bc0b5a3bb5acde683452/transformed/accompanist-drawablepainter-0.30.1/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.compose.material3:material3:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/5c2a853fccbee98bce4b6c0c65a09941/transformed/material3-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.8.0] /Users/prakhartripathi/.gradle/caches/transforms-3/1f46729924dbfdd4911c30fd50c98109/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity-compose:1.8.0] /Users/prakhartripathi/.gradle/caches/transforms-3/9cc4ba8095208954cbcce3ff811b9cb5/transformed/activity-compose-1.8.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.animation:animation-core-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/38a15495d6a0745434c7638ac5722967/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/337b27e99e460e222148745ad7b9e80a/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/c12d1e4c04dbd2dc005f15738484e46b/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/6483c39986acf799de6fb71fb4b70245/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.animation:animation-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/283239bb663e55e54b3634d5008d7963/transformed/animation-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/0dd3070c4cc43a2900200d500712d4af/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
@@ -21,10 +26,11 @@ MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] /Users/prakha
 MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/3a009c42ec022bbee41edc9b70086b65/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/79633e045e0ab5a4033543352b71d9a3/transformed/ui-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/prakhartripathi/.gradle/caches/transforms-3/68560e7d1ea67b009c4e427467acc1fa/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/79d1c3b83bf80b094081d6a465a11453/transformed/coil-base-2.4.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/6b3aefa22fe0dced00e5670f5ee3e64e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/2d799fa81aa0009b047008ec9e9becf9/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/44fe936ee18d6f2b13ceac75ccbfc8e1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/51d32ca2d4ecfc49e868717ff0db0765/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/44fe936ee18d6f2b13ceac75ccbfc8e1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/6385f413ebc8257c4c12d13b2c581f4a/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/d306dd1638f9d9fe3c3f6e8d8c8dd9ec/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/prakhartripathi/.gradle/caches/transforms-3/98c5dbe34ce089727dd61b4880d3d461/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
@@ -32,6 +38,9 @@ MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/prakhartripathi/.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/ae7c0d823e7cd25a636a674c503e0711/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.12.0] /Users/prakhartripathi/.gradle/caches/transforms-3/448ea59dfd419144144391b95ecd69db/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.autofill:autofill:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/1bd9fc20c7405b2d35f54af8115a38d1/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/prakhartripathi/.gradle/caches/transforms-3/5b9fb44d913061a95cfc611a6f06eae4/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/prakhartripathi/.gradle/caches/transforms-3/30728935b73102532acfe8461874e22a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/prakhartripathi/.gradle/caches/transforms-3/dabafe357c90505fedbc736e4b783840/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.12.0] /Users/prakhartripathi/.gradle/caches/transforms-3/da024fe9a862a975dbe894dae3fd994a/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/ada93e1ee665fd8f9a4646649f0e0c84/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/c4768cab7413e2492fc82ca4866929ca/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
@@ -41,9 +50,10 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/prakhartr
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/8abd2c756c42d6fc3dfcf5a47abf9b93/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/28e8b3dce098c077c7a15387e52d86ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/prakhartripathi/.gradle/caches/transforms-3/35c24a2db80437d7da92fcfa4f8f41ac/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/0d9bc86ba08c92811f1c778099b189a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/dddf89b615036d6145226a78ba7f2427/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/prakhartripathi/.gradle/caches/transforms-3/0164f937c52ccfba926aa58efabfdb6f/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
 	package
 		INJECTED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -63,8 +73,8 @@ MERGED from [androidx.core:core:1.12.0] /Users/prakhartripathi/.gradle/caches/tr
 MERGED from [androidx.core:core:1.12.0] /Users/prakhartripathi/.gradle/caches/transforms-3/da024fe9a862a975dbe894dae3fd994a/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/28e8b3dce098c077c7a15387e52d86ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/28e8b3dce098c077c7a15387e52d86ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/0d9bc86ba08c92811f1c778099b189a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/0d9bc86ba08c92811f1c778099b189a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
@@ -107,6 +117,14 @@ uses-sdk
 INJECTED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidManifest.xml
 INJECTED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidManifest.xml
+MERGED from [io.coil-kt:coil-compose:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/c114361ec4eab5360ed75747bc87ed79/transformed/coil-compose-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/c114361ec4eab5360ed75747bc87ed79/transformed/coil-compose-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/057c0125b869e1376c1d905883a9d309/transformed/coil-compose-base-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/057c0125b869e1376c1d905883a9d309/transformed/coil-compose-base-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/18d82d4ec66d9237c60a812879fe3279/transformed/coil-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/18d82d4ec66d9237c60a812879fe3279/transformed/coil-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.1] /Users/prakhartripathi/.gradle/caches/transforms-3/67403f0be3e7bc0b5a3bb5acde683452/transformed/accompanist-drawablepainter-0.30.1/AndroidManifest.xml:21:5-23:42
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.1] /Users/prakhartripathi/.gradle/caches/transforms-3/67403f0be3e7bc0b5a3bb5acde683452/transformed/accompanist-drawablepainter-0.30.1/AndroidManifest.xml:21:5-23:42
 MERGED from [androidx.compose.material3:material3:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/5c2a853fccbee98bce4b6c0c65a09941/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material3:material3:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/5c2a853fccbee98bce4b6c0c65a09941/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.8.0] /Users/prakhartripathi/.gradle/caches/transforms-3/1f46729924dbfdd4911c30fd50c98109/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
@@ -117,6 +135,8 @@ MERGED from [androidx.compose.animation:animation-core-android:1.5.0] /Users/pra
 MERGED from [androidx.compose.animation:animation-core-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/38a15495d6a0745434c7638ac5722967/transformed/animation-core-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/337b27e99e460e222148745ad7b9e80a/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/337b27e99e460e222148745ad7b9e80a/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/c12d1e4c04dbd2dc005f15738484e46b/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/c12d1e4c04dbd2dc005f15738484e46b/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/6483c39986acf799de6fb71fb4b70245/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/6483c39986acf799de6fb71fb4b70245/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.animation:animation-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/283239bb663e55e54b3634d5008d7963/transformed/animation-release/AndroidManifest.xml:5:5-44
@@ -141,14 +161,16 @@ MERGED from [androidx.compose.ui:ui-android:1.5.0] /Users/prakhartripathi/.gradl
 MERGED from [androidx.compose.ui:ui-android:1.5.0] /Users/prakhartripathi/.gradle/caches/transforms-3/79633e045e0ab5a4033543352b71d9a3/transformed/ui-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/prakhartripathi/.gradle/caches/transforms-3/68560e7d1ea67b009c4e427467acc1fa/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/prakhartripathi/.gradle/caches/transforms-3/68560e7d1ea67b009c4e427467acc1fa/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/79d1c3b83bf80b094081d6a465a11453/transformed/coil-base-2.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/79d1c3b83bf80b094081d6a465a11453/transformed/coil-base-2.4.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/6b3aefa22fe0dced00e5670f5ee3e64e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/6b3aefa22fe0dced00e5670f5ee3e64e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/2d799fa81aa0009b047008ec9e9becf9/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/2d799fa81aa0009b047008ec9e9becf9/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/44fe936ee18d6f2b13ceac75ccbfc8e1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/44fe936ee18d6f2b13ceac75ccbfc8e1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/51d32ca2d4ecfc49e868717ff0db0765/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/51d32ca2d4ecfc49e868717ff0db0765/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/44fe936ee18d6f2b13ceac75ccbfc8e1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/44fe936ee18d6f2b13ceac75ccbfc8e1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/6385f413ebc8257c4c12d13b2c581f4a/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/6385f413ebc8257c4c12d13b2c581f4a/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/d306dd1638f9d9fe3c3f6e8d8c8dd9ec/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
@@ -163,6 +185,12 @@ MERGED from [androidx.core:core-ktx:1.12.0] /Users/prakhartripathi/.gradle/cache
 MERGED from [androidx.core:core-ktx:1.12.0] /Users/prakhartripathi/.gradle/caches/transforms-3/448ea59dfd419144144391b95ecd69db/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.autofill:autofill:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/1bd9fc20c7405b2d35f54af8115a38d1/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.autofill:autofill:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/1bd9fc20c7405b2d35f54af8115a38d1/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/prakhartripathi/.gradle/caches/transforms-3/5b9fb44d913061a95cfc611a6f06eae4/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/prakhartripathi/.gradle/caches/transforms-3/5b9fb44d913061a95cfc611a6f06eae4/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/prakhartripathi/.gradle/caches/transforms-3/30728935b73102532acfe8461874e22a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/prakhartripathi/.gradle/caches/transforms-3/30728935b73102532acfe8461874e22a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/prakhartripathi/.gradle/caches/transforms-3/dabafe357c90505fedbc736e4b783840/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/prakhartripathi/.gradle/caches/transforms-3/dabafe357c90505fedbc736e4b783840/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.12.0] /Users/prakhartripathi/.gradle/caches/transforms-3/da024fe9a862a975dbe894dae3fd994a/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.12.0] /Users/prakhartripathi/.gradle/caches/transforms-3/da024fe9a862a975dbe894dae3fd994a/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/ada93e1ee665fd8f9a4646649f0e0c84/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
@@ -181,22 +209,26 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/prak
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/28e8b3dce098c077c7a15387e52d86ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/prakhartripathi/.gradle/caches/transforms-3/35c24a2db80437d7da92fcfa4f8f41ac/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/prakhartripathi/.gradle/caches/transforms-3/35c24a2db80437d7da92fcfa4f8f41ac/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/0d9bc86ba08c92811f1c778099b189a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/0d9bc86ba08c92811f1c778099b189a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/dddf89b615036d6145226a78ba7f2427/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/prakhartripathi/.gradle/caches/transforms-3/dddf89b615036d6145226a78ba7f2427/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/prakhartripathi/.gradle/caches/transforms-3/0164f937c52ccfba926aa58efabfdb6f/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/prakhartripathi/.gradle/caches/transforms-3/0164f937c52ccfba926aa58efabfdb6f/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
 	android:targetSdkVersion
 		INJECTED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.google.accompanist:accompanist-drawablepainter:0.30.1] /Users/prakhartripathi/.gradle/caches/transforms-3/67403f0be3e7bc0b5a3bb5acde683452/transformed/accompanist-drawablepainter-0.30.1/AndroidManifest.xml:23:9-39
 	android:minSdkVersion
 		INJECTED from /Users/prakhartripathi/Documents/src/walktest/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/prakhartripathi/.gradle/caches/transforms-3/2d799fa81aa0009b047008ec9e9becf9/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/44fe936ee18d6f2b13ceac75ccbfc8e1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/prakhartripathi/.gradle/caches/transforms-3/44fe936ee18d6f2b13ceac75ccbfc8e1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/0d9bc86ba08c92811f1c778099b189a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/prakhartripathi/.gradle/caches/transforms-3/0d9bc86ba08c92811f1c778099b189a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
@@ -240,44 +272,44 @@ ADDED from [androidx.core:core:1.12.0] /Users/prakhartripathi/.gradle/caches/tra
 	android:name
 		ADDED from [androidx.core:core:1.12.0] /Users/prakhartripathi/.gradle/caches/transforms-3/da024fe9a862a975dbe894dae3fd994a/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/prakhartripathi/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/prakhartripathi/.gradle/caches/transforms-3/094d4ee3391ee1004d77ead97aed9d24/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

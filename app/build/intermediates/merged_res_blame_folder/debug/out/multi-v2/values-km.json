@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.walktest.app-mergeDebugResources-38:/values-km/values-km.xml",
+            "outputFile": "com.example.walktest.app-mergeDebugResources-41:/values-km/values-km.xml",
             "map": [
                 {
                     "source": "/Users/prakhartripathi/.gradle/caches/transforms-3/79633e045e0ab5a4033543352b71d9a3/transformed/ui-release/res/values-km/values-km.xml",
